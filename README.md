@@ -42,8 +42,8 @@ Execute o programa: Após a compilação bem-sucedida, execute o arquivo gerado:
 
 ./central_atendimento
 
-Exemplo de Uso
-Ao executar o programa, você verá o menu inicial:
+Exemplo de uso
+ao executar o programa, você verá o menu inicial:
 
 Óla! Seja bem vindo(a) a nossa central de atentendimento
 1 - Já sou cliente
